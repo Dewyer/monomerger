@@ -1,0 +1,10 @@
+[package]
+name = "monomerger"
+version = "0.1.0"
+authors = ["Barnabás Rátki <barnabas.ratki@snapsoft.hu>"]
+edition = "2018"
+
+[dependencies]
+anyhow = "1.0.38"
+chrono = "0.4.19"
+fs_extra = "1.2.0"
